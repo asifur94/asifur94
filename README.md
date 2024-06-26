@@ -6,41 +6,40 @@
 
 ### I am a Full Stack Developer from Bangladesh
 
-
 ## Connect with me:
 
-<!--- Social Icons --->
+<!-- Social Icons -->
 <p align="center">
     <a href="https://facebook.com/asifur94">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/facebook.svg" alt="asifur94" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/facebook.svg" alt="asifur94" height="50" width="50" />
     </a>
     <a href="https://twitter.com/asifur94">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/twitter.svg" alt="asifur94" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/twitter.svg" alt="asifur94" height="50" width="50" />
     </a>
-    <a href="https://www.linkedin.com/in/hexpit/">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/linked-in-alt.svg" alt="asifur94" height="50" width="50" />
+    <a href="https://www.linkedin.com/in/asifur94/">
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/linked-in-alt.svg" alt="asifur94" height="50" width="50" />
     </a>
     <a href="https://instagram.com/asifur94">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/instagram.svg" alt="asifur94" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/instagram.svg" alt="asifur94" height="50" width="50" />
     </a>
     <a href="#">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/youtube.svg" alt="asifur94" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/youtube.svg" alt="asifur94" height="50" width="50" />
     </a>
     <a href="https://codepen.io/asifur94">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/codepen.svg" alt="asifur94" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/codepen.svg" alt="asifur94" height="50" width="50" />
     </a>
     <a href="https://stackoverflow.com/users/asifur94">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/stack-overflow.svg" alt="asifur94" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/stack-overflow.svg" alt="asifur94" height="50" width="50" />
     </a>
     <a href="https://dev.to/asifur94">
-        <img align="center" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/icons/devto.svg" alt="asifur94" height="50" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/devto.svg" alt="asifur94" height="50" width="50" />
     </a>
 </p>
-<!--- /Social Icons --->
+<!-- /Social Icons -->
 
 ## Languages and Tools
 
-<!--- Technologies Icons --->
+<!-- Technologies Icons -->
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
@@ -108,195 +107,83 @@
     <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
     </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-    </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
     </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
     </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a>
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+    <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+    </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
-    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+    </a> 
+    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
+        <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
     </a> 
 </p>
-<!--- /Technologies Icons --->
 
-## Support
-
-<p>
-    <a href="https://www.buymeacoffee.com/hexpit#gh-light-mode-only">
-        <img align="left" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/buttons/bmc-white-button.png" height="50" width="210" alt="asifur94" />
-    </a>
-    <a  href="https://www.buymeacoffee.com/hexpit#gh-dark-mode-only">
-        <img align="left" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/buttons/bmc-black-button.png" height="50" width="210" alt="asifur94" />
-    </a>
-    <a href="https://ko-fi.com/hexpit"> 
-        <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="asifur94" />
-    </a>
-    <a href="https://opencollective.com/hexpit"> 
-        <img align="left" src="https://raw.githubusercontent.com/asifur94/asifur94/main/images/buttons/become_sponsor-oc.svg" alt="asifur94" />
-    </a>
+<!-- /Technologies Icons -->
+<!-- GitHub Stats -->
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asifur94&show_icons=true&theme=tokyonight" alt="asifur94" />
 </p>
-
-<br><br>
-
-## GitHub Stats Cards
-
-<a href="https://github.com/asifur94#gh-light-mode-only">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifur94&fire=pink" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/asifur94#gh-dark-mode-only">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifur94&theme=radical&fire=green" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/asifur94#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api?username=asifur94&count_private=true&show_icons=true" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/asifur94#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api?username=asifur94&count_private=true&show_icons=true&theme=radical" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/asifur94#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifur94&show_icons=true&langs_count=10&layout=compact" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/asifur94#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifur94&show_icons=true&langs_count=10&layout=compact&theme=radical" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/asifur94#gh-light-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexpit" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/asifur94#gh-dark-mode-only">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexpit&theme=radical" alt="My GitHub Stats" />
-</a>
-
-
-
-## GitHub Stats
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 62 Contributions in the Year 2022
- > 
-> 📦 34.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-🌆 Daytime    40 commits     █████████░░░░░░░░░░░░░░░░   38.83% 
-🌃 Evening    25 commits     ██████░░░░░░░░░░░░░░░░░░░   24.27% 
-🌙 Night      29 commits     ███████░░░░░░░░░░░░░░░░░░   28.16%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
-Wednesday    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
-Friday       20 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-Saturday     18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-Sunday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-PHP                      1 hr 2 mins         █████████████░░░░░░░░░░░░   52.11% 
-Blade Template           22 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
-Ruby                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
-
-🔥 Editors: 
-VS Code                  1 hr 16 mins        ████████████████░░░░░░░░░   64.26% 
-PhpStorm                 42 mins             █████████░░░░░░░░░░░░░░░░   35.74%
-
-🐱‍💻 Projects: 
-artyowl                  43 mins             █████████░░░░░░░░░░░░░░░░   36.58% 
-shark                    42 mins             █████████░░░░░░░░░░░░░░░░   35.74% 
-collegemate              33 mins             ███████░░░░░░░░░░░░░░░░░░   27.68%
-
-💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      3 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Blade                    3 repos             ████████████░░░░░░░░░░░░░   50.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/asifur94/asifur94/main/charts/bar_graph.png) 
-
-
- Last Updated on 30/04/2022 18:44:48 UTC
-<!--END_SECTION:waka-->
-
-[![Md Asifur's github activity graph](https://activity-graph.herokuapp.com/graph?username=asifur94&theme=dracula)](https://github.com/asifur94/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifur94&theme=tokyonight" alt="asifur94" />
 </p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifur94&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asifur94" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur94&theme=github_dark" />
+</p>
+<!-- /GitHub Stats -->
+
+## Watching
+
+<p align="center">
+    <img align="left" src="https://komarev.com/ghpvc/?username=asifur94&label=Profile%20views&color=0e75b6&style=flat" alt="asifur94" />
+</p>
+
+<p align="center">
+    <img align="left" src="https://img.shields.io/github/followers/asifur94?label=Followers&style=social" alt="asifur94" />
+</p>
+
+<p align="center">
+    <img align="left" src="https://img.shields.io/github/stars/asifur94?label=Stars&style=social" alt="asifur94" />
+</p>
+
+# Join My Dev Journey
+- Check out my [Repositories](https://github.com/asifur94?tab=repositories)
+- Follow me on [GitHub](https://github.com/asifur94) to stay updated with my latest projects.
