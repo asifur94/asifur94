@@ -72,13 +72,17 @@
 
 ### 📊 GitHub Stats:
 
-<p style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifur94&show_icons=true&theme=tokyonight" alt="asifur94" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifur94&theme=tokyonight" alt="asifur94" />
+<p align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifur94&theme=tokyonight" alt="asifur94" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifur94&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asifur94" />
+    <img src="https://github-readme-stats.vercel.app/api?username=asifur94&show_icons=true&theme=tokyonight" alt="asifur94" />
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=asifur94&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asifur94" />
+</p>
+
+<p align="center">
+    
 </p>
 
 <p align="center">
