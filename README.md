@@ -80,46 +80,39 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 
-### 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=asifur94&theme=onedark&margin-w=15" />
-</p>
-<!-- GitHub Stats -->
-
-### 📊 GitHub Stats:
+## 🏆 GitHub Trophies
 
 <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifur94&theme=tokyonight" alt="asifur94" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=asifur94&theme=onedark&no-frame=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifur94&show_icons=true&theme=tokyonight" alt="asifur94" />
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=asifur94&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asifur94" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifur94&theme=tokyonight" />
 </p>
 
 <p align="center">
-    
+  <img src="https://github-readme-stats.vercel.app/api?username=asifur94&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifur94&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur94&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifur94&theme=github_dark" />
 </p>
-<!-- /GitHub Stats -->
 
-## Watching
 
-<p align="center">
-    <img align="left" src="https://komarev.com/ghpvc/?username=asifur94&label=Profile%20views&color=0e75b6&style=flat" alt="asifur94" />
-</p>
+## 📌 GitHub Profile Insights
 
 <p align="center">
-    <img align="left" src="https://img.shields.io/github/followers/asifur94?label=Followers&style=social" alt="asifur94" />
+  <img src="https://komarev.com/ghpvc/?username=asifur94&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/asifur94?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/asifur94?label=Total%20Stars&style=social" />
 </p>
 
-<p align="center">
-    <img align="left" src="https://img.shields.io/github/stars/asifur94?label=Stars&style=social" alt="asifur94" />
-</p>
-<!-- watching -->
 <br>
 
 ## Support
