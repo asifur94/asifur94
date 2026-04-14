@@ -1,9 +1,9 @@
 # Hello Devs 👋, It's Md Asifur Rahman
 
 
-### I am a Full Stack Developer from Bangladesh
+### I am a full-stack developer from Bangladesh
 
-🌱 I’m currently learning Data structure and Algorithm
+🌱 I’m currently learning Data Structures and Algorithms
 
 👯 I’m looking to collaborate on tech articles and learning resources
 
